@@ -2,7 +2,6 @@
 2048 Game -  2048 is a game and you are expected to implement the move function for this game.  Arguments passed to the four functions are the matrix which we are using for 2048. The move  functions will return a new matrix after moving the corresponding move. Implement All the four moves using these functions:- 1. Move_up, move_down , Move_left , Move_right.
 
 
-#Main Code 
 import random
 def start_game():
     mat = []
